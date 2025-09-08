@@ -13,6 +13,8 @@ function App() {
     <Cards title="card2" description="desc2"/>
     <Cards title="card3" description="desc3"/>
     <Cards title="card4" description="desc4"/>
+    <Cards title="card5" description="desc5"/>
+
     </div>
     <Footer/>
     </>
